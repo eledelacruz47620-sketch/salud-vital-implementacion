@@ -179,7 +179,7 @@ function handleContactForm(event) {
 
     // Redirigir a WhatsApp después de 1.5 segundos
     setTimeout(() => {
-        window.open(`https://wa.me/52TU_NUMERO?text=${textoEncodado}`, '_blank');
+        window.open(`https://wa.me/527298305156 text=${textoEncodado}`, '_blank');
     }, 1500);
 
     // Limpiar formulario
